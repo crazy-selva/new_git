@@ -1,1 +1,5 @@
 This world fucks
+
+python
+SQL
+Java
